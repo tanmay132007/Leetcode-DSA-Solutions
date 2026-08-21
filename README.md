@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0078-subsets](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
 ## Backtracking
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
