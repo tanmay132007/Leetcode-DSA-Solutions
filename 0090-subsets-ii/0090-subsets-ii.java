@@ -1,31 +1,45 @@
 class Solution {
-    Set<List<Integer>> res = new HashSet<>();
+    List<List<Integer>> ans = new ArrayList<>();
+
+    public void fun(List<Integer> nums, List<Integer> tmp) {
+        ans.add(new ArrayList<>(tmp));
+
+        if (nums.size() == 0) {
+            return;
+        }
+
+        for (int i = 0; i < nums.size(); i++) {
+
+            if (i > 0 && nums.get(i).equals(nums.get(i - 1))) {
+                continue;
+            }
+
+            List<Integer> ip = new ArrayList<>(nums);
+            List<Integer> op = new ArrayList<>(tmp);
+
+            op.add(nums.get(i));
+
+            for (int j = 0; j <= i; j++) {
+                ip.remove(0);
+            }
+
+            fun(ip, op);
+        }
+    }
 
     public List<List<Integer>> subsetsWithDup(int[] nums) {
+        ans.clear();
+
         Arrays.sort(nums);
-        finds(nums ,0, new ArrayList<>());
-        return new ArrayList<>(res);
 
+        List<Integer> tmp = new ArrayList<>();
 
-        
-    }
-    public void finds(int[] nums,int index ,List<Integer> subset){
-        if (index == nums.length){
-            res.add(new ArrayList<>(subset) );
-            return;
-
-
-
+        for (int num : nums) {
+            tmp.add(num);
         }
-        // pic 
-        subset.add(nums[index]);
-        finds(nums , index+1 , subset );
 
-        // backtracking 
-        subset.remove(subset.size()-1);
+        fun(tmp, new ArrayList<>());
 
-        // not pic 
-        finds(nums , index+1 , subset );
-
+        return ans;
     }
 }
