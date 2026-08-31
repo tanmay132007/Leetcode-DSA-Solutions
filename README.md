@@ -59,8 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0041-first-missing-positive) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
