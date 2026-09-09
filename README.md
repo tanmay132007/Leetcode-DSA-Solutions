@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
 | [0740-delete-and-earn](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Memoization
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
 | [0485-max-consecutive-ones](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0740-delete-and-earn](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1470-shuffle-the-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
