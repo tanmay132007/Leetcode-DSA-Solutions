@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
 | [0740-delete-and-earn](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0740-delete-and-earn) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
 | [0485-max-consecutive-ones](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0740-delete-and-earn](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0740-delete-and-earn) |
 | [1470-shuffle-the-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1470-shuffle-the-array) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
 | [0740-delete-and-earn](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0740-delete-and-earn) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
@@ -90,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
