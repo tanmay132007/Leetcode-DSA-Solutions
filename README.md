@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [1486-xor-operation-in-an-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
+| [1486-xor-operation-in-an-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
