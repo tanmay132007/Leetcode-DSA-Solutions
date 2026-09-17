@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
 | [0485-max-consecutive-ones](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
