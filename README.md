@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3019-number-of-changing-keys](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3019-number-of-changing-keys) |
 ## Binary Search
 |  |
 | ------- |
