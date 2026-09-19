@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0740-delete-and-earn](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0740-delete-and-earn](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Counting
 |  |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
