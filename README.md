@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3024-type-of-triangle](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3024-type-of-triangle) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [3024-type-of-triangle](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3024-type-of-triangle) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
