@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [1486-xor-operation-in-an-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3024-type-of-triangle) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
