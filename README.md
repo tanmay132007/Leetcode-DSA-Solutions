@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [1035-uncrossed-lines](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1143-longest-common-subsequence) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [1035-uncrossed-lines](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1470-shuffle-the-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1929-concatenation-of-array) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1035-uncrossed-lines](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
