@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0646-maximum-length-of-pair-chain](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0983-minimum-cost-for-tickets) |
@@ -88,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0011-container-with-most-water) |
+| [0646-maximum-length-of-pair-chain](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [3024-type-of-triangle](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3024-type-of-triangle) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Hash Table
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Polygons
 |  |
 | ------- |
