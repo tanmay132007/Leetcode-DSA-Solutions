@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
+| [0383-ransom-note](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0740-delete-and-earn) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
+| [0383-ransom-note](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0709-to-lower-case](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0709-to-lower-case) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0383-ransom-note) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Trie
 |  |
