@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0191-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0326-power-of-three) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
