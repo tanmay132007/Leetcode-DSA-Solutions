@@ -190,9 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
