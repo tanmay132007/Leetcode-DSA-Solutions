@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3024-type-of-triangle) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3024-type-of-triangle) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Backtracking
 |  |
 | ------- |
