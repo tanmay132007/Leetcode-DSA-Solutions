@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
