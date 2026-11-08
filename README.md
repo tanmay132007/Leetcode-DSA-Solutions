@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0326-power-of-three) |
 | [1486-xor-operation-in-an-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2413-smallest-even-multiple](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0455-assign-cookies) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0740-delete-and-earn) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0110-balanced-binary-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
