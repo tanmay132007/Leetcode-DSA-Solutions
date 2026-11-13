@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/0326-power-of-three) |
 | [1486-xor-operation-in-an-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2413-smallest-even-multiple](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2525-categorize-box-according-to-criteria](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/tanmay132007/Leetcode-DSA-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
